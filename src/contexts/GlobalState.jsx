@@ -20,7 +20,7 @@ const initialState = {
     },
     {
       id: 4,
-      title: 'From dad',
+      title: 'From friend',
       amount: 40,
     },
   ],
